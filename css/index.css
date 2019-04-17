@@ -3,8 +3,9 @@ body {
 }
 
 header {
-	paddin: 27px;
+	padding: 27px;
 }
+/* decía paddin, es padding */
 
 header img {
 	float: left;
